@@ -2,11 +2,6 @@
 # Assignment 1 - Part C
 # Collaborators: None
 
-# problem 3
-# Name: Nikhil Padarthi
-# Assignment 1 - Part C
-# Collaborators: None
-
 starting_salary = float(input("Enter the starting salary: "))
 
 total_cost = 1000000
